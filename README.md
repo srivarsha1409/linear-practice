@@ -15,9 +15,13 @@ advertising_linear_150.csv → Predict sales based on advertising spend (TV, rad
 Key steps performed:
 
 Loaded datasets using pandas.
+
 Applied Linear Regression using scikit-learn.
+
 Extracted slope(s), intercept, and R² score.
+
 Made predictions for new data points.
+
 (For salary dataset) Visualized regression line with matplotlib.
 
 ⚙️ Requirements
