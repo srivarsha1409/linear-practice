@@ -1,5 +1,6 @@
+:
 
-Linear Regression Practice:
+📊LINEAR REGRESSION:
 
 This project demonstrates how to use Linear Regression in Python with different real-world styled datasets.
 The goal is to understand relationships between features (like study hours, house size, ad spend) and target values (scores, prices, sales, etc.), and to make predictions.
@@ -18,7 +19,7 @@ advertising_linear_150.csv → Predict sales based on advertising spend (TV, rad
 
 
 
-KEY STEPS PERFORMED:
+🔑KEY STEPS PERFORMED:
 
 Loaded datasets using pandas.
 
@@ -104,7 +105,7 @@ Predicted sales for TV=160, Radio=32, Social=18.
 
 
 
-🖼 Output Images
+🖼 OUTPUT IMAGES:
 
 Example Salary vs Experience Regression Plot:
 
