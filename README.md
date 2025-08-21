@@ -9,9 +9,14 @@ The goal is to understand relationships between features (like study hours, hous
 
 Datasets used in this project:
 study_hours_scores_150.csv → Predict student exam scores from study hours.
+
 salary_experience_150.csv → Predict salary from years of experience.
+
 house_price_multifeature_150.csv → Predict house prices based on size and bedrooms
+
 advertising_linear_150.csv → Predict sales based on advertising spend (TV, radio, social media).
+
+
 
 KEY STEPS PERFORMED:
 
@@ -35,6 +40,9 @@ Make sure you have the following installed:
 Python 3.8+
 Jupyter Notebook / any Python IDE
 
+
+
+
 INSTALL DEPENDENCIES:
 
 pip install -r requirements.txt
@@ -47,7 +55,7 @@ scikit-learn
 
 
 
-🛠 Installation & Setup
+🛠INSTALLATION AND SETUP:
 
 Clone this repository:
 
@@ -58,7 +66,6 @@ cd linear-regression-practice
 Install dependencies:
 
 pip install -r requirements.txt
-
 
 Run the scripts or Jupyter Notebook:
 
@@ -110,7 +117,7 @@ R² score shows model performance (how much variance is explained).
 Predictions are approximate and depend on dataset quality.
 
 
-Future Improvements:
+FUTURE IMPROVEMENTS:
 
 Add more real-world features.
 Try Polynomial Regression, Ridge, Lasso for better accuracy.
