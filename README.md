@@ -1,5 +1,3 @@
-:
-
 📊LINEAR REGRESSION:
 
 This project demonstrates how to use Linear Regression in Python with different real-world styled datasets.
