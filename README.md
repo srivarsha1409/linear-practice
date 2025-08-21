@@ -4,7 +4,8 @@ Linear Regression Practice:
 This project demonstrates how to use Linear Regression in Python with different real-world styled datasets.
 The goal is to understand relationships between features (like study hours, house size, ad spend) and target values (scores, prices, sales, etc.), and to make predictions.
 
-📌 Project Overview
+
+📌 PROJECT OVERVIEW:
 
 Datasets used in this project:
 study_hours_scores_150.csv → Predict student exam scores from study hours.
@@ -12,7 +13,7 @@ salary_experience_150.csv → Predict salary from years of experience.
 house_price_multifeature_150.csv → Predict house prices based on size and bedrooms
 advertising_linear_150.csv → Predict sales based on advertising spend (TV, radio, social media).
 
-Key steps performed:
+KEY STEPS PERFORMED:
 
 Loaded datasets using pandas.
 
@@ -24,15 +25,17 @@ Made predictions for new data points.
 
 (For salary dataset) Visualized regression line with matplotlib.
 
-⚙️ Requirements
+
+
+
+⚙️REQUIREMENTS:
+
 
 Make sure you have the following installed:
-
 Python 3.8+
-
 Jupyter Notebook / any Python IDE
 
-Install dependencies:
+INSTALL DEPENDENCIES:
 
 pip install -r requirements.txt
 
@@ -41,6 +44,8 @@ numpy
 pandas
 matplotlib
 scikit-learn
+
+
 
 🛠 Installation & Setup
 
@@ -62,7 +67,10 @@ python salary_experience_regression.py
 python house_price_regression.py
 python advertising_regression.py
 
-📊 Outcomes
+
+
+📊OUTCOMES
+
 1. Study Hours vs Exam Scores
 
 Found a strong positive relationship.
@@ -87,12 +95,15 @@ Identified how each advertising channel affects sales.
 
 Predicted sales for TV=160, Radio=32, Social=18.
 
+
+
 🖼 Output Images
 
 Example Salary vs Experience Regression Plot:
 
-✅ Conclusion
 
+
+✅CONCLUSION:
 
 Linear Regression works well to model relationships between variables.
 R² score shows model performance (how much variance is explained).
@@ -100,7 +111,6 @@ Predictions are approximate and depend on dataset quality.
 
 
 Future Improvements:
-
 
 Add more real-world features.
 Try Polynomial Regression, Ridge, Lasso for better accuracy.
